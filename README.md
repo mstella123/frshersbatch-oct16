@@ -1,2 +1,2 @@
 # frshersbatch-oct16
-Learning
+Learning for coursera course
